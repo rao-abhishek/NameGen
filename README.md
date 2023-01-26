@@ -1,5 +1,5 @@
 # NameGen
-Name Generator with Multi-Level Perceptron ( Machine Learning)
+Name Generator with Multilayer Perceptron ( Machine Learning)
 
 <h2>Some Generated Samples<h2><br>
  <p>
